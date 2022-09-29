@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # This file will help to serve as a starting point for using the rest of the tools
 # Things we want to figure out
 # 1) Is your key active?
