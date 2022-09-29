@@ -119,7 +119,7 @@ def module_recon_all():
     brute_health_permissions()
     brute_iam_permissions()
     brute_imagebuilder_permissions()
-    brute_importexport_permissions()
+    # brute_importexport_permissions()
     brute_inspector_permissions()
     brute_iot_permissions()
     #  iot-data no functions
